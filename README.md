@@ -1,2 +1,2 @@
 # portfolio_website
-fortfolio for ayushi
+portfolio for ayushi

@@ -317,14 +317,14 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/ayushi_hero_1.jpg") top right;
+  background: url("../img/ayushi_profile.jpg") top right;
   background-size: cover;
   position: relative;
 }
 
 #hero:before {
   content: "";
-  background: rgba(0, 0, 0, 0.65);
+  background: rgba(0, 0, 0, 0.45);
   position: absolute;
   bottom: 0;
   top: 0;
